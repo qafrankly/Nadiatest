@@ -11,7 +11,8 @@ class ModuleDemo extends Component {
 	<p>This text is not editable!</p>
 	<Image class="nadia" width={280} src={'http://wnow.images.worldnow.com/images/1879001_G.gif'} alt={'alt'} />
 	<Image class="muzna" width={280} src={'http://franklydemo.images.worldnow.com/images/15208935_G.jpeg'} alt={'alt'} />
-	<Image class="muzna" width={280} src={'http://wnow.images.worldnow.com/images/5863946_G.gif'} alt={'alt'} />    
+	<Image class="muzna" width={280} src={'http://wnow.images.worldnow.com/images/15614184_G.png'} alt={'alt'} />  
+	<Image class="muzna" width={280} src={'http://wnow.images.worldnow.com/images/15528697_G.jpg'} alt={'alt'} /> 
       </div>
     );
 	  
